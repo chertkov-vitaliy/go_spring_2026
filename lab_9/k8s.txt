@@ -1,0 +1,3 @@
+Статья (Зачем K8S):  https://habr.com/ru/companies/selectel/articles/956266/
+Литература: Kubernetes для разработчиков (Уильям Деннис) 
+Инструкция по установки(изучить):  https://docs.dobry-kot.ru/blog/kubernetes-the-hard-way/
