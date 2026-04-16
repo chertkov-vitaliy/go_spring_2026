@@ -1,0 +1,9 @@
+Тема: установка ранеров, ArgoCD, манифестация в K8S
+
+Материал ( начиная с главы  "Запуск тестового рабочего процесса")
+https://beget.com/ru/kb/how-to/vps/gitea-actions#zapusk-testovogo-rabochego-processa
+
+Инструкция: https://chat.deepseek.com/share/9nwyhgfxtu3czfurvt
+
+Установка ArgoCD
+https://tproger.ru/articles/razbiraem-argocd--avtomatizirovannyj-deploj-v-kubernetes
