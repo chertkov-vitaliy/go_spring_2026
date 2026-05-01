@@ -1,0 +1,4 @@
+Рекомендации к прочтению:
+Docker in Action
+Podman in Action
+Kubernetes in Action
